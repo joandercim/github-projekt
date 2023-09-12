@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+}
